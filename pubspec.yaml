@@ -1,0 +1,20 @@
+name: abstract_calendar
+description: A new Flutter package.
+version: 0.0.1
+author: Ali Ghanbari
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  abstarct_date:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
