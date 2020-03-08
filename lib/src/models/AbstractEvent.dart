@@ -8,6 +8,4 @@ abstract class AbstractEvent<T extends DateAdapter> {
 
   Date<T> get date;
 
-
-
 }
